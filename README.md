@@ -4,4 +4,4 @@
 - list of movies
 - movie info
 
-[Watch it in action](https://dgsergio.github.io/MovieApp/)
+[Watch it in action](https://dgsergio.github.io/movie-app/)
